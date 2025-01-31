@@ -43,7 +43,7 @@ function App() {
         </nav>
 
         <div className="relative z-10 text-center px-4">
-          <h1 className="text-6xl md:text-7xl h-20 font-bold mb-6 bg-gradient-to-r from-blue-400 to-violet-400 bg-clip-text text-transparent">
+          <h1 className="text-6xl h-auto md:text-7xl h-20 font-bold mb-6 bg-gradient-to-r from-blue-400 to-violet-400 bg-clip-text text-transparent">
             Bring Your Books to Life
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-200">
@@ -78,7 +78,7 @@ function App() {
       <section id="features" className="py-20 px-4">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-4xl h-16 md:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-violet-400 bg-clip-text text-transparent">
+            <h2 className="text-4xl h-auto md:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-violet-400 bg-clip-text text-transparent">
               Transform Your Reading Experience
             </h2>
             <p className="text-xl text-gray-400">
