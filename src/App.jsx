@@ -50,6 +50,14 @@ function App() {
             Immerse deeper in the books you read every day
           </p>
           <div className="flex flex-col md:flex-row gap-4 justify-center">
+          <a
+              href="https://audio.visuai.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-8 py-4 bg-red-500 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+            >
+              Try Visuai Audio
+            </a>
             <a
               href="https://app.visuai.io"
               target="_blank"
@@ -62,7 +70,7 @@ function App() {
               href="https://pro.visuai.io"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-8 py-4 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+              className="px-8 py-4 bg-indigo-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors"
             >
               Try Visuai Pro
             </a>
@@ -162,6 +170,14 @@ function App() {
             Join thousands of readers experiencing books in a whole new way
           </p>
           <div className="flex flex-col md:flex-row gap-4 justify-center">
+          <a
+              href="https://audio.visuai.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-8 py-4 bg-red-500 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+            >
+              Try Visuai Audio
+            </a>
             <a
               href="https://app.visuai.io"
               target="_blank"
@@ -174,7 +190,7 @@ function App() {
               href="https://pro.visuai.io"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-8 py-4 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+              className="px-8 py-4 bg-indigo-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-colors"
             >
               Try Visuai Pro
             </a>
